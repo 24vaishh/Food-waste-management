@@ -1,2 +1,2 @@
 # Food-waste-management
-This project id developed by using html and css only.
+This project is aim to management of food
